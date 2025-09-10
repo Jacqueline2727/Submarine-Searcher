@@ -8,13 +8,20 @@ The system leverages Java timers and graphics classes to update motion continuou
 **Features**
 
 🚢 Dynamic submarine movement with realistic pathing.
+
 🔄 Spiral search pattern for the searcher.
+
 🖥 GUI controls for position, speed, and direction adjustments.
+
 ⏱ Timer-driven animations for smooth, real-time updates.
+
 📏 Live distance calculations between submarine and searcher.
 
+
 **Technologies Used**
+
 Language: Java
+
 GUI Framework: Swing
 
 **How It Works**
@@ -25,4 +32,5 @@ GUI Framework: Swing
 5. Animations provide a clear visualization of submarine and searcher interactions.
 
 **Demo**
+
 <img width="946" height="463" alt="image" src="https://github.com/user-attachments/assets/71824b6f-dffa-4d4e-99cb-d0e6e039c05c" />
